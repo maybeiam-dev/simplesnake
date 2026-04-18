@@ -1,0 +1,11 @@
+{
+  "name": "Змейка",
+  "short_name": "Змейка",
+  "description": "Мобильная версия змейки с управлением свайпами и кнопками.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#dff2c2",
+  "theme_color": "#6aa634",
+  "lang": "ru",
+  "orientation": "portrait"
+}
